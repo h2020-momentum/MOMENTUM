@@ -27,7 +27,7 @@ CarOwnershipPrediction <- function(InputData, CoefficientValues) {
     CoefficientValues[,2] * InputData$total_population_thousands +
     CoefficientValues[,3] * InputData$population_from_65_years_age_percent +
     CoefficientValues[,4] * InputData$household_size_from_3_percent +
-    CoefficientValues[,5] * InputData$medium_density_districts -
+    CoefficientValues[,5] * InputData$medium_density_districts +
     CoefficientValues[,6] * InputData$car_sharing_vehicles 
   return(InputData)
 }
