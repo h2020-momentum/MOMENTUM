@@ -6,6 +6,8 @@
 #Type of model: Multinomial logit model
 #The coefficients are read from the file 'coefficients.csv'. This file is provided to allow custom values for the coefficients
 #NoCar is the base category and other choices are: OneCar, TwoCars and ThreeOrMoreCars
+#Note 1: Age is an ordinal variable - <8 = 1, 18-24 = 2,...., 65-74 = 7, >74 = 8
+#Note 2: Commute speed is in kmph
 
 #############################################################################################################
 ##READING INPUT##
