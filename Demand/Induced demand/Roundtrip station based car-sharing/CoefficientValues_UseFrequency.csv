@@ -8,7 +8,7 @@ IsFullyEmployed.MediumFreq,1.57
 IsFullyEmployed.LowFreq,1.65
 IsHalfEmployed.MediumFreq,1.969
 IsHalfEmployed.LowFreq,1.567
-hasLowIncome.LowFreq,0.716
+HasLowIncome.LowFreq,0.716
 HasUniversityDegree.LowFreq,0.589
 HHBicycles.LowFreq,0.174
 HHPrivateCars.LowFreq,0.323
