@@ -1,0 +1,21 @@
+﻿Intercept.MediumFreq,-5.654
+Intercept.LowFreq,-4.011
+Age.MediumFreq,-0.037
+Age.LowFreq,-0.037
+IsStudent.MediumFreq,1.775
+IsStudent.LowFreq,2.092
+IsFullyEmployed.MediumFreq,1.57
+IsFullyEmployed.LowFreq,1.65
+IsHalfEmployed.MediumFreq,1.969
+IsHalfEmployed.LowFreq,1.567
+hasLowIncome.LowFreq,0.716
+HasUniversityDegree.LowFreq,0.589
+HHBicycles.LowFreq,0.174
+HHPrivateCars.LowFreq,0.323
+IsBicycleHighFrequencyUser.MediumFreq,1.601
+IsBicycleMediumFrequencyUser.LowFreq,0.535
+IsPTHighFrequencyUser .MediumFreq,1.105
+IsPrivateCarLowFrequencyUser.LowFreq,0.654
+IsPTAndCarUser.LowFreq,-0.775
+numberOfSharingVehiclesInZone.MediumFreq,0.272
+numberOfSharingVehiclesInZone.LowFreq,0.142
