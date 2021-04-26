@@ -54,7 +54,6 @@ write.table(dataNode2Vec[,c(1,2,4)],"similarity_edges.edg", sep="\t",quote = FAL
 # Generation of node embeddings using pecanpy tool 
 ##################################################
 
-#system("C:\\Users\\Antonio\\PythonEnv\\envNode2Vec\\Scripts\\activate",intern = TRUE)
 system("pecanpy --input similarity_edges.edg --output similarity_nodes.emb --mode SparseOTF --weighted --verbose --p 1 --q 20 --num-walks 500 --walk-length 10",intern = TRUE)
 
 ##################################################
