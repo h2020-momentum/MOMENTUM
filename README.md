@@ -6,7 +6,7 @@ MOMENTUM is an European H2020 project, aimed at developing models for emerging m
 
 This repository hosts the open source codes of the models developed within work package 4 of the project. The models are developed with an objective to formulate changes that are required to incorporate emerging mobility solutions into strategic transportation models, both in terms of supply and demand. 
 
-The repository is divided into four main categories: Demand, Fleet management, Supply, and Sustainability. Each of these categories is divided into modules, which contain the files for one or several models. The model scripts are developed in different programming languages, e.g., MATLAB, R and Python. A readme file is provided for each model, in the respective directories. Technical details about the models are also available in Deliverable D4.1, which can be accessed in the project website (Resources -> Publications).
+The repository is divided into four main categories: Demand, Fleet management, Supply, and Sustainability. Each of these categories is divided into modules, which contain the files for one or several models. A readme file is provided for each model, in the respective directories. Technical details about the models are also available in Deliverable D4.1, which can be accessed in the project website (Resources -> Publications).
 
 # References
 ## Intermediate modelling approach, along with concise information on the individual models
