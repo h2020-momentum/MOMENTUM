@@ -1,7 +1,7 @@
 # New mode choice model
 
 This model is intended to estimate modal split between (i) conventiona transport modes as a whole, (ii) bike-sharing, (iii) car-sharing, and (iv) ride-sharing. 
-CSV files for synthetic population, travel times and sharing vehicle availability are taken as an input and the output is also a CSV file, with mode choice combined with the synthetic population data. 
+A CSV file with synthetic population data, trip travel times and sharing vehicle availability are taken as an input and the output is also a CSV file, with mode choice combined with the input data. 
 
 # Pre-requisites
 
