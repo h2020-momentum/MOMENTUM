@@ -16,7 +16,7 @@ Besides the above reference, the readme file of each model may contain the relev
 
 # Contact
 
-Work package leaders - santhanakrishnan.narayanan@tum.de, c.antoniou@tum.de
+Work package leaders - santhanakrishnan.narayanan@tum.de, c.antoniou@tum.de\
 MOMENTUM technical coordinators - javier.burrieza@nommon.es, oliva.garcia-cantu@nommon.es
 
 Besides these contacts, the contacts for individual models are provided in the readme file of the respective models.
