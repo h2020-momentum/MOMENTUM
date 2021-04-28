@@ -8,7 +8,7 @@ This model is coded in 'R' language. For details about R, kindly check https://w
 
 # Description of the model files
 1.	CoefficientValues.csv – Model coefficients; unless you want to use custom values, do not change the values in the file
-2.	DisaggregateCarOwnershipPrediction.R – Main model script
+2.	AggregateCarOwnershipPrediction.R – Main model script
 3.	InputSampleFile.csv – Sample input file, for understanding the inputs and testing the model
 
 # Citing this model
