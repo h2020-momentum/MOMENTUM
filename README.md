@@ -10,7 +10,7 @@ The repository is divided into four main categories: Demand, Fleet management, S
 
 # Citing the MOMENTUM models
 
-Narayanan, S., Antoniou, C., Tympakianaki, A., Chatziathanasiou, M., Konstantinidou, N. M., Salanova Grau, J. M., Aifandopoulou, G., Frederix, R., Himpe, W., Vanherle, K., Vanherck, J., Martín, I., Burrieza, J., Masegosa, A. D., Calderín, J. F., & Muga, P. F. (2021). Deliverable 4.1: Transport modelling approaches for emerging mobility solutions. Available at: https://h2020-momentum.eu/resources-overview/publications/
+Narayanan, S., Antoniou, C., Tympakianaki, A., Chatziathanasiou, M., Konstantinidou, N. M., Salanova Grau, J. M., Aifandopoulou, G., Frederix, R., Himpe, W., Vanherle, K., Vanherck, J., Martín, I., Burrieza, J., Masegosa, A. D., Calderín, J. F., and Muga, P. F. (2021). Deliverable 4.1: Transport modelling approaches for emerging mobility solutions. Available at: https://h2020-momentum.eu/resources-overview/publications/
 
 Besides the above reference, the readme file of each model may contain the relevant publication(s) of that particular model.
 
