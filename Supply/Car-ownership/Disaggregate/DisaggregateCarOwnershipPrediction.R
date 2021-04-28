@@ -17,6 +17,27 @@ InputData = read.csv2("InputSampleFile.csv", sep = ',', dec = ".") #Socio-demogr
 CoefficientValues = read.csv2("CoefficientValues.csv", sep = ',', dec = ".", header = FALSE) #Coefficient values
 
 #############################################################################################################
+##DATA TRANSFORMATION##
+#############################################################################################################
+InputData$LowIncome = ifelse(InputData$HHIncome=="Low",1,0)
+InputData$MediumIncome = ifelse(InputData$HHIncome=="Medium",1,0)
+InputData$CargoBike = ifelse(InputData$HHCargoBike>=1,1,0)
+InputData$PTPass = ifelse(InputData$HHPTPass>=1,1,0)
+InputData$UnwillingToUseCSInFuture = ifelse(InputData$CarSharingWillingness=="0",1,0)
+InputData$CSSubscription = ifelse(InputData$HHCarSharingSubscription==1,1,0)
+InputData$CSSupplySubscriptionInteraction = I(InputData$CSSubscription * InputData$CarSharingSupply)
+
+InputData$Age_Old = InputData$Age
+InputData$Age = 1
+InputData$Age[InputData$Age_Old>=18 & InputData$Age_Old<=24] = 2
+InputData$Age[InputData$Age_Old>=25 & InputData$Age_Old<=34] = 3
+InputData$Age[InputData$Age_Old>=35 & InputData$Age_Old<=44] = 4
+InputData$Age[InputData$Age_Old>=45 & InputData$Age_Old<=54] = 5
+InputData$Age[InputData$Age_Old>=55 & InputData$Age_Old<=64] = 6
+InputData$Age[InputData$Age_Old>=658 & InputData$Age_Old<=74] = 7
+InputData$Age[InputData$Age_Old>74] = 8
+
+#############################################################################################################
 ##PREDICTION##
 #############################################################################################################
 SharesPrediction = function(InputData) {
@@ -89,8 +110,35 @@ InputDataWithCarOwnership[(ncol(InputDataWithCarOwnership)+1):(ncol(InputDataWit
 InputDataWithCarOwnership$CarOwnership = max.col(PredictedShares, "first") - 1
 
 #############################################################################################################
+##AGGREGATION TO HOUSEHOLD##
+#############################################################################################################
+#Based on household leader (usually the one with highest age)
+CarOwnershipBasedOnIndividualWithHighestAge = aggregate(InputDataWithCarOwnership[, 26], list(InputDataWithCarOwnership$HH_ID), max)
+colnames(CarOwnershipBasedOnIndividualWithHighestAge)= c("HH_ID", "CarOwnership")
+
+#Based on mean of probabilities, calculated across the individuals from the households
+CarOwnershipBasedOnMeanOfProbabilities = aggregate(InputDataWithCarOwnership[, 22:25], list(InputDataWithCarOwnership$HH_ID), mean)
+names(CarOwnershipBasedOnMeanOfProbabilities)[names(CarOwnershipBasedOnMeanOfProbabilities) == 'Group.1'] <- 'HH_ID'
+CarOwnershipBasedOnMeanOfProbabilities$CarOwnership = max.col(CarOwnershipBasedOnMeanOfProbabilities[,2:5], "first") - 1
+
+#Based on mean of assigned choice, calculated across the individuals from the households
+CarOwnershipBasedOnMeanOfAssignedChoice = aggregate(InputDataWithCarOwnership[, 26], list(InputDataWithCarOwnership$HH_ID), mean)
+colnames(CarOwnershipBasedOnMeanOfAssignedChoice)= c("HH_ID", "CarOwnership")
+CarOwnershipBasedOnMeanOfAssignedChoice$CarOwnership = round(CarOwnershipBasedOnMeanOfAssignedChoice$CarOwnership)
+
+#############################################################################################################
 ##SAVING OUTPUT##
 #############################################################################################################
 #Change the separator (sep) and decimal (dec) format according to your needs
+#Original car ownership calculation
 write.table(InputDataWithCarOwnership, file = "SyntheticPopulationWithCarOwnership.csv", row.names=FALSE, sep=",", dec = ".")
+
+#Car ownership based on household leader (usually the one with highest age)
+write.table(CarOwnershipBasedOnIndividualWithHighestAge, file = "CarOwnershipBasedOnIndividualWithHighestAge.csv", row.names=FALSE, sep=",", dec = ".")
+
+#Car ownership based on mean of probabilities, calculated across the individuals from the households
+write.table(CarOwnershipBasedOnMeanOfProbabilities, file = "CarOwnershipBasedOnMeanOfProbabilities.csv", row.names=FALSE, sep=",", dec = ".")
+
+#Car ownership based on mean of assigned choice, calculated across the individuals from the households
+write.table(CarOwnershipBasedOnMeanOfAssignedChoice, file = "CarOwnershipBasedOnMeanOfAssignedChoice.csv", row.names=FALSE, sep=",", dec = ".")
 
