@@ -8,11 +8,14 @@ This repository hosts the open source codes of the models developed within work 
 
 The repository is divided into four main categories: Demand, Fleet management, Supply, and Sustainability. Each of these categories is divided into modules, which contain the files for one or several models. The model scripts are developed in different programming languages, e.g., MATLAB, R and Python. A readme file is provided for each model, in the respective directories. Technical details about the models are also available in Deliverable D4.1, which can be accessed in the project website (Resources -> Publications).
 
-# Citing the MOMENTUM models
+# References
+## Intermediate modelling approach, along with concise information on the individual models
+Narayanan, S., Salanova Grau, J. M., Frederix, R., Tympakianaki, A., and Antoniou, C. (2021). Modelling of shared mobility services - An approach in between traditional strategic models and agent-based models. Manuscript under review
 
+## Project deliverable related to the models
 Narayanan, S., Antoniou, C., Tympakianaki, A., Casas, J., Brackstone, M., Chatziathanasiou, M., Konstantinidou, N. M., Salanova Grau, J. M., Aifandopoulou, G., Frederix, R., Himpe, W., Vanherle, K., Vanherck, J., Martín, I., Burrieza, J., Masegosa, A. D., Calderín, J. F., and Muga, P. F. (2021). Deliverable 4.1: Transport modelling approaches for emerging mobility solutions. Available at: https://h2020-momentum.eu/resources-overview/publications/
 
-Besides the above reference, the readme file of each model may contain the relevant publication(s) of that particular model.
+Besides the above two references, the readme file of each model may contain the relevant publication(s) of that particular model.
 
 # Contact
 
