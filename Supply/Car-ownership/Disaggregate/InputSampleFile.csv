@@ -1,0 +1,8 @@
+Zone_ID,HH_ID,Indv_ID,Age,Citizen,HHIncome,HHSize,HHCargoBike,HHPTPass,HHCarSharingSubscription,CarSharingWillingness,CarSharingSupply,CommuteSpeed
+1,1,1,53,1,High,2,0,1,0,0,7,40
+1,1,2,50,1,High,2,0,1,0,0,7,45
+3,2,1,23,0,Low,1,0,1,0,1,13,15
+4,3,1,34,1,High,3,1,0,1,1,4,30
+4,3,2,32,1,High,3,1,0,1,1,4,50
+4,3,3,14,1,High,3,1,0,1,1,4,5
+9,4,1,61,1,Medium,1,0,0,0,0,18,60
