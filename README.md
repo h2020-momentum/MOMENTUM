@@ -15,7 +15,7 @@ Narayanan, S., Salanova Grau, J. M., Frederix, R., Tympakianaki, A., and Antonio
 ## Project deliverable related to the models
 Narayanan, S., Antoniou, C., Tympakianaki, A., Casas, J., Brackstone, M., Chatziathanasiou, M., Konstantinidou, N. M., Salanova Grau, J. M., Aifandopoulou, G., Frederix, R., Himpe, W., Vanherle, K., Vanherck, J., Martín, I., Burrieza, J., Masegosa, A. D., Calderín, J. F., and Muga, P. F. (2021). Deliverable 4.1: Transport modelling approaches for emerging mobility solutions. Available at: https://h2020-momentum.eu/resources-overview/publications/
 
-Besides the above two references, the readme file of each model may contain the relevant publication(s) of that particular model.
+Besides the above two references, the **readme file of each model** may contain the relevant publication(s) of that particular model.
 
 # Contact
 
