@@ -23,7 +23,7 @@ SharesPrediction = function(InputData) {
   Utility = data.frame(matrix(NA, nrow = nrow(InputData), ncol = 3))
   colnames(Utility) = c("OneCar","TwoCars","ThreeOrMoreCars")
   Utility$OneCar = CoefficientValues[1,2] +
-    CoefficientValues[4,2]*InputData$NativeCitizen +
+    CoefficientValues[4,2]*InputData$Citizen +
     CoefficientValues[7,2]*InputData$LowIncome +
     CoefficientValues[10,2]*InputData$MediumIncome +
     CoefficientValues[13,2]*I(InputData$Age^3) +
@@ -38,7 +38,7 @@ SharesPrediction = function(InputData) {
   
   
   Utility$TwoCars = CoefficientValues[2,2] +
-    CoefficientValues[5,2]*InputData$NativeCitizen +
+    CoefficientValues[5,2]*InputData$Citizen +
     CoefficientValues[8,2]*InputData$LowIncome +
     CoefficientValues[11,2]*InputData$MediumIncome +
     CoefficientValues[14,2]*I(InputData$Age^3) +
@@ -53,7 +53,7 @@ SharesPrediction = function(InputData) {
   
   
   Utility$ThreeOrMoreCars = CoefficientValues[3,2] +
-    CoefficientValues[6,2]*InputData$NativeCitizen +
+    CoefficientValues[6,2]*InputData$Citizen +
     CoefficientValues[9,2]*InputData$LowIncome +
     CoefficientValues[12,2]*InputData$MediumIncome +
     CoefficientValues[15,2]*I(InputData$Age^3) +

@@ -1,9 +1,9 @@
 Intercept.OneCar,0
 Intercept.TwoCars,-1.002
 Intercept.ThreeOrMoreCars,-2.665
-NativeCitizen.OneCar,1.876
-NativeCitizen.TwoCars,2.1
-NativeCitizen.ThreeOrMoreCars,2.1
+Citizen.OneCar,1.876
+Citizen.TwoCars,2.1
+Citizen.ThreeOrMoreCars,2.1
 LowIncome.OneCar,-1.535
 LowIncome.TwoCars,-3.606
 LowIncome.ThreeOrMoreCars,-3.606
