@@ -11,7 +11,7 @@
 ##READING INPUT##
 #############################################################################################################
 #Change the separator (sep) and decimal (dec) format according to input data 
-InputData <- read.csv2("SyntheticPopulation.csv", sep = ',', dec = ".") #Socio-demographics data
+InputData <- read.csv2("InputSampleFile.csv", sep = ',', dec = ".") 
 CoefficientValues <- read.csv2("CoefficientValues.csv", sep = ',', dec = ".", header = FALSE) #Coefficient values
 
 #############################################################################################################
