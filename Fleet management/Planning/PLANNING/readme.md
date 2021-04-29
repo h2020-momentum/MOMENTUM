@@ -1,6 +1,5 @@
 # **Fleet planning**
-
-Matching algorithm that matches drivers with passengers into shared trips. 
+That file contain all the modules used to define the system parameters of MOMENTUM mobility services. 
 
 # **Pre-requisites**
 Python 3.8.8
