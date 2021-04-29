@@ -1,0 +1,1246 @@
+{
+  "trips": {
+    "0": {
+      "access_time": 8.0,
+      "waiting_time": 4.0,
+      "trip_time": 6.0,
+      "stop_id": 4.0,
+      "end_stop_id": 5.0
+    },
+    "1": {
+      "access_time": 12.0,
+      "waiting_time": 9.0,
+      "trip_time": 5.0,
+      "stop_id": 6.0,
+      "end_stop_id": 5.0
+    },
+    "2": {
+      "access_time": 7.0,
+      "waiting_time": 5.0,
+      "trip_time": 4.0,
+      "stop_id": 2.0,
+      "end_stop_id": 7.0
+    },
+    "3": {
+      "access_time": 3.0,
+      "waiting_time": 4.0,
+      "trip_time": 10.0,
+      "stop_id": 4.0,
+      "end_stop_id": 4.0
+    },
+    "4": {
+      "access_time": 10.0,
+      "waiting_time": 3.0,
+      "trip_time": 3.0,
+      "stop_id": 8.0,
+      "end_stop_id": 5.0
+    },
+    "5": {
+      "access_time": 5.0,
+      "waiting_time": 7.0,
+      "trip_time": 9.0,
+      "stop_id": 4.0,
+      "end_stop_id": 1.0
+    },
+    "6": {
+      "access_time": 13.0,
+      "waiting_time": 9.0,
+      "trip_time": 4.0,
+      "stop_id": 1.0,
+      "end_stop_id": 4.0
+    },
+    "7": {
+      "access_time": 8.0,
+      "waiting_time": 10.0,
+      "trip_time": 9.0,
+      "stop_id": 9.0,
+      "end_stop_id": 3.0
+    },
+    "8": {
+      "access_time": 6.0,
+      "waiting_time": 3.0,
+      "trip_time": 6.0,
+      "stop_id": 1.0,
+      "end_stop_id": 5.0
+    },
+    "9": {
+      "access_time": 4.0,
+      "waiting_time": 6.0,
+      "trip_time": 11.0,
+      "stop_id": 6.0,
+      "end_stop_id": 7.0
+    },
+    "10": {
+      "access_time": 3.0,
+      "waiting_time": 4.0,
+      "trip_time": 9.0,
+      "stop_id": 9.0,
+      "end_stop_id": 6.0
+    },
+    "11": {
+      "access_time": 8.0,
+      "waiting_time": 4.0,
+      "trip_time": 6.0,
+      "stop_id": 9.0,
+      "end_stop_id": 1.0
+    },
+    "12": {
+      "access_time": 8.0,
+      "waiting_time": 11.0,
+      "trip_time": 9.0,
+      "stop_id": 2.0,
+      "end_stop_id": 1.0
+    },
+    "13": {
+      "access_time": 8.0,
+      "waiting_time": 4.0,
+      "trip_time": 4.0,
+      "stop_id": 1.0,
+      "end_stop_id": 9.0
+    },
+    "14": {
+      "access_time": 7.0,
+      "waiting_time": 3.0,
+      "trip_time": 9.0,
+      "stop_id": 4.0,
+      "end_stop_id": 9.0
+    },
+    "15": {
+      "access_time": 14.0,
+      "waiting_time": 5.0,
+      "trip_time": 4.0,
+      "stop_id": 4.0,
+      "end_stop_id": 8.0
+    },
+    "16": {
+      "access_time": 4.0,
+      "waiting_time": 10.0,
+      "trip_time": 4.0,
+      "stop_id": 1.0,
+      "end_stop_id": 8.0
+    },
+    "17": {
+      "access_time": 3.0,
+      "waiting_time": 5.0,
+      "trip_time": 4.0,
+      "stop_id": 6.0,
+      "end_stop_id": 1.0
+    },
+    "18": {
+      "access_time": 5.0,
+      "waiting_time": 5.0,
+      "trip_time": 3.0,
+      "stop_id": 9.0,
+      "end_stop_id": 4.0
+    },
+    "19": {
+      "access_time": 5.0,
+      "waiting_time": 3.0,
+      "trip_time": 3.0,
+      "stop_id": 4.0,
+      "end_stop_id": 5.0
+    },
+    "20": {
+      "access_time": 14.0,
+      "waiting_time": 8.0,
+      "trip_time": 9.0,
+      "stop_id": 7.0,
+      "end_stop_id": 4.0
+    },
+    "21": {
+      "access_time": 11.0,
+      "waiting_time": 8.0,
+      "trip_time": 10.0,
+      "stop_id": 3.0,
+      "end_stop_id": 8.0
+    },
+    "22": {
+      "access_time": 7.0,
+      "waiting_time": 10.0,
+      "trip_time": 3.0,
+      "stop_id": 7.0,
+      "end_stop_id": 4.0
+    },
+    "23": {
+      "access_time": 8.0,
+      "waiting_time": 6.0,
+      "trip_time": 8.0,
+      "stop_id": 4.0,
+      "end_stop_id": 6.0
+    },
+    "24": {
+      "access_time": 10.0,
+      "waiting_time": 6.0,
+      "trip_time": 4.0,
+      "stop_id": 4.0,
+      "end_stop_id": 7.0
+    },
+    "25": {
+      "access_time": 14.0,
+      "waiting_time": 6.0,
+      "trip_time": 8.0,
+      "stop_id": 3.0,
+      "end_stop_id": 1.0
+    },
+    "26": {
+      "access_time": 14.0,
+      "waiting_time": 6.0,
+      "trip_time": 7.0,
+      "stop_id": 4.0,
+      "end_stop_id": 5.0
+    },
+    "27": {
+      "access_time": 8.0,
+      "waiting_time": 3.0,
+      "trip_time": 7.0,
+      "stop_id": 5.0,
+      "end_stop_id": 5.0
+    },
+    "28": {
+      "access_time": 5.0,
+      "waiting_time": 7.0,
+      "trip_time": 5.0,
+      "stop_id": 9.0,
+      "end_stop_id": 5.0
+    },
+    "29": {
+      "access_time": 13.0,
+      "waiting_time": 9.0,
+      "trip_time": 7.0,
+      "stop_id": 5.0,
+      "end_stop_id": 5.0
+    },
+    "30": {
+      "access_time": 6.0,
+      "waiting_time": 3.0,
+      "trip_time": 10.0,
+      "stop_id": 6.0,
+      "end_stop_id": 9.0
+    },
+    "31": {
+      "access_time": 6.0,
+      "waiting_time": 9.0,
+      "trip_time": 5.0,
+      "stop_id": 2.0,
+      "end_stop_id": 9.0
+    },
+    "32": {
+      "access_time": 11.0,
+      "waiting_time": 8.0,
+      "trip_time": 9.0,
+      "stop_id": 2.0,
+      "end_stop_id": 8.0
+    },
+    "33": {
+      "access_time": 13.0,
+      "waiting_time": 5.0,
+      "trip_time": 10.0,
+      "stop_id": 6.0,
+      "end_stop_id": 8.0
+    },
+    "34": {
+      "access_time": 7.0,
+      "waiting_time": 11.0,
+      "trip_time": 11.0,
+      "stop_id": 2.0,
+      "end_stop_id": 5.0
+    },
+    "35": {
+      "access_time": 3.0,
+      "waiting_time": 4.0,
+      "trip_time": 11.0,
+      "stop_id": 6.0,
+      "end_stop_id": 5.0
+    },
+    "36": {
+      "access_time": 12.0,
+      "waiting_time": 11.0,
+      "trip_time": 10.0,
+      "stop_id": 2.0,
+      "end_stop_id": 8.0
+    },
+    "37": {
+      "access_time": 8.0,
+      "waiting_time": 6.0,
+      "trip_time": 10.0,
+      "stop_id": 6.0,
+      "end_stop_id": 4.0
+    },
+    "38": {
+      "access_time": 14.0,
+      "waiting_time": 11.0,
+      "trip_time": 7.0,
+      "stop_id": 4.0,
+      "end_stop_id": 1.0
+    },
+    "39": {
+      "access_time": 12.0,
+      "waiting_time": 6.0,
+      "trip_time": 5.0,
+      "stop_id": 3.0,
+      "end_stop_id": 4.0
+    },
+    "40": {
+      "access_time": 14.0,
+      "waiting_time": 10.0,
+      "trip_time": 9.0,
+      "stop_id": 9.0,
+      "end_stop_id": 8.0
+    },
+    "41": {
+      "access_time": 9.0,
+      "waiting_time": 6.0,
+      "trip_time": 6.0,
+      "stop_id": 9.0,
+      "end_stop_id": 5.0
+    },
+    "42": {
+      "access_time": 5.0,
+      "waiting_time": 5.0,
+      "trip_time": 6.0,
+      "stop_id": 8.0,
+      "end_stop_id": 6.0
+    },
+    "43": {
+      "access_time": 9.0,
+      "waiting_time": 6.0,
+      "trip_time": 4.0,
+      "stop_id": 1.0,
+      "end_stop_id": 4.0
+    },
+    "44": {
+      "access_time": 11.0,
+      "waiting_time": 10.0,
+      "trip_time": 9.0,
+      "stop_id": 5.0,
+      "end_stop_id": 5.0
+    },
+    "45": {
+      "access_time": 13.0,
+      "waiting_time": 9.0,
+      "trip_time": 10.0,
+      "stop_id": 6.0,
+      "end_stop_id": 3.0
+    },
+    "46": {
+      "access_time": 3.0,
+      "waiting_time": 9.0,
+      "trip_time": 7.0,
+      "stop_id": 3.0,
+      "end_stop_id": 5.0
+    },
+    "47": {
+      "access_time": 13.0,
+      "waiting_time": 10.0,
+      "trip_time": 3.0,
+      "stop_id": 5.0,
+      "end_stop_id": 7.0
+    },
+    "48": {
+      "access_time": 10.0,
+      "waiting_time": 9.0,
+      "trip_time": 9.0,
+      "stop_id": 5.0,
+      "end_stop_id": 7.0
+    },
+    "49": {
+      "access_time": 14.0,
+      "waiting_time": 5.0,
+      "trip_time": 9.0,
+      "stop_id": 9.0,
+      "end_stop_id": 6.0
+    },
+    "50": {
+      "access_time": 6.0,
+      "waiting_time": 11.0,
+      "trip_time": 9.0,
+      "stop_id": 1.0,
+      "end_stop_id": 6.0
+    },
+    "51": {
+      "access_time": 5.0,
+      "waiting_time": 6.0,
+      "trip_time": 4.0,
+      "stop_id": 4.0,
+      "end_stop_id": 9.0
+    },
+    "52": {
+      "access_time": 11.0,
+      "waiting_time": 9.0,
+      "trip_time": 10.0,
+      "stop_id": 4.0,
+      "end_stop_id": 6.0
+    },
+    "53": {
+      "access_time": 12.0,
+      "waiting_time": 7.0,
+      "trip_time": 9.0,
+      "stop_id": 8.0,
+      "end_stop_id": 1.0
+    },
+    "54": {
+      "access_time": 8.0,
+      "waiting_time": 4.0,
+      "trip_time": 10.0,
+      "stop_id": 6.0,
+      "end_stop_id": 4.0
+    },
+    "55": {
+      "access_time": 12.0,
+      "waiting_time": 7.0,
+      "trip_time": 7.0,
+      "stop_id": 7.0,
+      "end_stop_id": 4.0
+    },
+    "56": {
+      "access_time": 7.0,
+      "waiting_time": 3.0,
+      "trip_time": 6.0,
+      "stop_id": 7.0,
+      "end_stop_id": 5.0
+    },
+    "57": {
+      "access_time": 13.0,
+      "waiting_time": 8.0,
+      "trip_time": 7.0,
+      "stop_id": 1.0,
+      "end_stop_id": 4.0
+    },
+    "58": {
+      "access_time": 10.0,
+      "waiting_time": 8.0,
+      "trip_time": 11.0,
+      "stop_id": 4.0,
+      "end_stop_id": 3.0
+    },
+    "59": {
+      "access_time": 13.0,
+      "waiting_time": 4.0,
+      "trip_time": 5.0,
+      "stop_id": 4.0,
+      "end_stop_id": 7.0
+    },
+    "60": {
+      "access_time": 12.0,
+      "waiting_time": 6.0,
+      "trip_time": 7.0,
+      "stop_id": 4.0,
+      "end_stop_id": 6.0
+    },
+    "61": {
+      "access_time": 10.0,
+      "waiting_time": 5.0,
+      "trip_time": 5.0,
+      "stop_id": 6.0,
+      "end_stop_id": 2.0
+    },
+    "62": {
+      "access_time": 3.0,
+      "waiting_time": 8.0,
+      "trip_time": 6.0,
+      "stop_id": 4.0,
+      "end_stop_id": 5.0
+    },
+    "63": {
+      "access_time": 4.0,
+      "waiting_time": 4.0,
+      "trip_time": 7.0,
+      "stop_id": 4.0,
+      "end_stop_id": 1.0
+    },
+    "64": {
+      "access_time": 13.0,
+      "waiting_time": 5.0,
+      "trip_time": 8.0,
+      "stop_id": 3.0,
+      "end_stop_id": 7.0
+    },
+    "65": {
+      "access_time": 7.0,
+      "waiting_time": 7.0,
+      "trip_time": 7.0,
+      "stop_id": 2.0,
+      "end_stop_id": 9.0
+    },
+    "66": {
+      "access_time": 9.0,
+      "waiting_time": 5.0,
+      "trip_time": 4.0,
+      "stop_id": 7.0,
+      "end_stop_id": 5.0
+    },
+    "67": {
+      "access_time": 7.0,
+      "waiting_time": 10.0,
+      "trip_time": 5.0,
+      "stop_id": 2.0,
+      "end_stop_id": 4.0
+    },
+    "68": {
+      "access_time": 8.0,
+      "waiting_time": 6.0,
+      "trip_time": 5.0,
+      "stop_id": 6.0,
+      "end_stop_id": 4.0
+    },
+    "69": {
+      "access_time": 13.0,
+      "waiting_time": 9.0,
+      "trip_time": 5.0,
+      "stop_id": 7.0,
+      "end_stop_id": 2.0
+    },
+    "70": {
+      "access_time": 12.0,
+      "waiting_time": 11.0,
+      "trip_time": 7.0,
+      "stop_id": 5.0,
+      "end_stop_id": 1.0
+    },
+    "71": {
+      "access_time": 6.0,
+      "waiting_time": 4.0,
+      "trip_time": 5.0,
+      "stop_id": 9.0,
+      "end_stop_id": 8.0
+    },
+    "72": {
+      "access_time": 10.0,
+      "waiting_time": 4.0,
+      "trip_time": 7.0,
+      "stop_id": 7.0,
+      "end_stop_id": 3.0
+    },
+    "73": {
+      "access_time": 12.0,
+      "waiting_time": 9.0,
+      "trip_time": 11.0,
+      "stop_id": 8.0,
+      "end_stop_id": 1.0
+    },
+    "74": {
+      "access_time": 3.0,
+      "waiting_time": 5.0,
+      "trip_time": 8.0,
+      "stop_id": 1.0,
+      "end_stop_id": 5.0
+    },
+    "75": {
+      "access_time": 6.0,
+      "waiting_time": 11.0,
+      "trip_time": 4.0,
+      "stop_id": 3.0,
+      "end_stop_id": 4.0
+    },
+    "76": {
+      "access_time": 4.0,
+      "waiting_time": 11.0,
+      "trip_time": 11.0,
+      "stop_id": 6.0,
+      "end_stop_id": 2.0
+    },
+    "77": {
+      "access_time": 8.0,
+      "waiting_time": 10.0,
+      "trip_time": 9.0,
+      "stop_id": 6.0,
+      "end_stop_id": 3.0
+    },
+    "78": {
+      "access_time": 9.0,
+      "waiting_time": 8.0,
+      "trip_time": 5.0,
+      "stop_id": 2.0,
+      "end_stop_id": 8.0
+    },
+    "79": {
+      "access_time": 10.0,
+      "waiting_time": 7.0,
+      "trip_time": 9.0,
+      "stop_id": 8.0,
+      "end_stop_id": 2.0
+    },
+    "80": {
+      "access_time": 5.0,
+      "waiting_time": 4.0,
+      "trip_time": 10.0,
+      "stop_id": 7.0,
+      "end_stop_id": 1.0
+    },
+    "81": {
+      "access_time": 5.0,
+      "waiting_time": 5.0,
+      "trip_time": 6.0,
+      "stop_id": 6.0,
+      "end_stop_id": 8.0
+    },
+    "82": {
+      "access_time": 8.0,
+      "waiting_time": 6.0,
+      "trip_time": 11.0,
+      "stop_id": 5.0,
+      "end_stop_id": 4.0
+    },
+    "83": {
+      "access_time": 13.0,
+      "waiting_time": 9.0,
+      "trip_time": 4.0,
+      "stop_id": 9.0,
+      "end_stop_id": 8.0
+    },
+    "84": {
+      "access_time": 7.0,
+      "waiting_time": 4.0,
+      "trip_time": 10.0,
+      "stop_id": 1.0,
+      "end_stop_id": 5.0
+    },
+    "85": {
+      "access_time": 12.0,
+      "waiting_time": 10.0,
+      "trip_time": 3.0,
+      "stop_id": 3.0,
+      "end_stop_id": 7.0
+    },
+    "86": {
+      "access_time": 14.0,
+      "waiting_time": 10.0,
+      "trip_time": 6.0,
+      "stop_id": 1.0,
+      "end_stop_id": 1.0
+    },
+    "87": {
+      "access_time": 14.0,
+      "waiting_time": 9.0,
+      "trip_time": 9.0,
+      "stop_id": 3.0,
+      "end_stop_id": 7.0
+    },
+    "88": {
+      "access_time": 10.0,
+      "waiting_time": 3.0,
+      "trip_time": 8.0,
+      "stop_id": 3.0,
+      "end_stop_id": 7.0
+    },
+    "89": {
+      "access_time": 6.0,
+      "waiting_time": 3.0,
+      "trip_time": 5.0,
+      "stop_id": 6.0,
+      "end_stop_id": 3.0
+    },
+    "90": {
+      "access_time": 4.0,
+      "waiting_time": 11.0,
+      "trip_time": 10.0,
+      "stop_id": 1.0,
+      "end_stop_id": 6.0
+    },
+    "91": {
+      "access_time": 14.0,
+      "waiting_time": 8.0,
+      "trip_time": 3.0,
+      "stop_id": 8.0,
+      "end_stop_id": 7.0
+    },
+    "92": {
+      "access_time": 8.0,
+      "waiting_time": 7.0,
+      "trip_time": 5.0,
+      "stop_id": 4.0,
+      "end_stop_id": 8.0
+    },
+    "93": {
+      "access_time": 14.0,
+      "waiting_time": 11.0,
+      "trip_time": 6.0,
+      "stop_id": 9.0,
+      "end_stop_id": 2.0
+    },
+    "94": {
+      "access_time": 4.0,
+      "waiting_time": 6.0,
+      "trip_time": 6.0,
+      "stop_id": 3.0,
+      "end_stop_id": 8.0
+    },
+    "95": {
+      "access_time": 6.0,
+      "waiting_time": 3.0,
+      "trip_time": 8.0,
+      "stop_id": 9.0,
+      "end_stop_id": 5.0
+    },
+    "96": {
+      "access_time": 6.0,
+      "waiting_time": 6.0,
+      "trip_time": 6.0,
+      "stop_id": 1.0,
+      "end_stop_id": 1.0
+    },
+    "97": {
+      "access_time": 3.0,
+      "waiting_time": 11.0,
+      "trip_time": 4.0,
+      "stop_id": 7.0,
+      "end_stop_id": 9.0
+    },
+    "98": {
+      "access_time": 6.0,
+      "waiting_time": 11.0,
+      "trip_time": 10.0,
+      "stop_id": 3.0,
+      "end_stop_id": 4.0
+    },
+    "99": {
+      "access_time": 4.0,
+      "waiting_time": 5.0,
+      "trip_time": 8.0,
+      "stop_id": 4.0,
+      "end_stop_id": 6.0
+    }
+  },
+  "reqests": {
+    "0": 1.0,
+    "1": 1.0,
+    "2": 1.0,
+    "3": 1.0,
+    "4": 1.0,
+    "5": 1.0,
+    "6": 1.0,
+    "7": 1.0,
+    "8": 1.0,
+    "9": 1.0,
+    "10": 1.0,
+    "11": 1.0,
+    "12": 1.0,
+    "13": 0.0,
+    "14": 1.0,
+    "15": 1.0,
+    "16": 1.0,
+    "17": 1.0,
+    "18": 1.0,
+    "19": 1.0,
+    "20": 1.0,
+    "21": 1.0,
+    "22": 1.0,
+    "23": 1.0,
+    "24": 1.0,
+    "25": 1.0,
+    "26": 1.0,
+    "27": 1.0,
+    "28": 0.0,
+    "29": 1.0,
+    "30": 1.0,
+    "31": 0.0,
+    "32": 0.0,
+    "33": 1.0,
+    "34": 1.0,
+    "35": 1.0,
+    "36": 1.0,
+    "37": 1.0,
+    "38": 0.0,
+    "39": 1.0,
+    "40": 1.0,
+    "41": 1.0,
+    "42": 0.0,
+    "43": 1.0,
+    "44": 1.0,
+    "45": 1.0,
+    "46": 1.0,
+    "47": 1.0,
+    "48": 1.0,
+    "49": 1.0,
+    "50": 1.0,
+    "51": 1.0,
+    "52": 1.0,
+    "53": 1.0,
+    "54": 1.0,
+    "55": 1.0,
+    "56": 1.0,
+    "57": 1.0,
+    "58": 1.0,
+    "59": 1.0,
+    "60": 1.0,
+    "61": 1.0,
+    "62": 1.0,
+    "63": 1.0,
+    "64": 1.0,
+    "65": 1.0,
+    "66": 0.0,
+    "67": 1.0,
+    "68": 0.0,
+    "69": 1.0,
+    "70": 1.0,
+    "71": 1.0,
+    "72": 1.0,
+    "73": 1.0,
+    "74": 1.0,
+    "75": 1.0,
+    "76": 0.0,
+    "77": 1.0,
+    "78": 1.0,
+    "79": 1.0,
+    "80": 1.0,
+    "81": 1.0,
+    "82": 1.0,
+    "83": 1.0,
+    "84": 0.0,
+    "85": 1.0,
+    "86": 0.0,
+    "87": 1.0,
+    "88": 1.0,
+    "89": 1.0,
+    "90": 1.0,
+    "91": 1.0,
+    "92": 1.0,
+    "93": 1.0,
+    "94": 1.0,
+    "95": 0.0,
+    "96": 1.0,
+    "97": 1.0,
+    "98": 1.0,
+    "99": 1.0,
+    "100": 1.0,
+    "101": 1.0,
+    "102": 1.0,
+    "103": 1.0,
+    "104": 0.0,
+    "105": 1.0,
+    "106": 1.0,
+    "107": 0.0,
+    "108": 1.0,
+    "109": 1.0,
+    "110": 1.0,
+    "111": 1.0,
+    "112": 0.0,
+    "113": 1.0,
+    "114": 1.0,
+    "115": 1.0,
+    "116": 1.0,
+    "117": 1.0,
+    "118": 1.0,
+    "119": 1.0,
+    "120": 1.0,
+    "121": 1.0,
+    "122": 1.0,
+    "123": 0.0,
+    "124": 1.0,
+    "125": 1.0,
+    "126": 1.0,
+    "127": 1.0,
+    "128": 1.0,
+    "129": 1.0
+  },
+  "routes": {
+    "1": {
+      "0": {
+        "duration_mins": 32,
+        "capacity_ratio": 0.6656681548706591,
+        "route_dist": 17.98319418810908
+      },
+      "1": {
+        "duration_mins": 34,
+        "capacity_ratio": 0.6394343632323926,
+        "route_dist": 14.92552701925348
+      },
+      "2": {
+        "duration_mins": 30,
+        "capacity_ratio": 0.7923585746159323,
+        "route_dist": 15.558391151742367
+      },
+      "3": {
+        "duration_mins": 37,
+        "capacity_ratio": 0.42076311195981075,
+        "route_dist": 16.5455517135618
+      },
+      "4": {
+        "duration_mins": 38,
+        "capacity_ratio": 0.403755470565242,
+        "route_dist": 19.39162583265263
+      },
+      "5": {
+        "duration_mins": 30,
+        "capacity_ratio": 0.8172085786008891,
+        "route_dist": 14.586033036652257
+      },
+      "6": {
+        "duration_mins": 43,
+        "capacity_ratio": 0.862399292105062,
+        "route_dist": 19.210277168525188
+      },
+      "7": {
+        "duration_mins": 37,
+        "capacity_ratio": 0.594822664956753,
+        "route_dist": 20.961278100182987
+      },
+      "8": {
+        "duration_mins": 35,
+        "capacity_ratio": 0.3201489678225395,
+        "route_dist": 18.954530644074225
+      },
+      "9": {
+        "duration_mins": 46,
+        "capacity_ratio": 0.7672025762655161,
+        "route_dist": 23.93968278671929
+      },
+      "10": {
+        "duration_mins": 37,
+        "capacity_ratio": 0.6968905692547236,
+        "route_dist": 17.372648114213625
+      },
+      "11": {
+        "duration_mins": 49,
+        "capacity_ratio": 0.3441460251063674,
+        "route_dist": 23.652882905143194
+      },
+      "12": {
+        "duration_mins": 30,
+        "capacity_ratio": 0.354642125224871,
+        "route_dist": 15.24197265116399
+      },
+      "13": {
+        "duration_mins": 45,
+        "capacity_ratio": 0.6256005269517677,
+        "route_dist": 21.112756074038327
+      },
+      "14": {
+        "duration_mins": 35,
+        "capacity_ratio": 0.49559822342842796,
+        "route_dist": 18.42946085420661
+      },
+      "15": {
+        "duration_mins": 32,
+        "capacity_ratio": 0.4955863989456094,
+        "route_dist": 16.08048857264979
+      },
+      "16": {
+        "duration_mins": 34,
+        "capacity_ratio": 0.8354452731819104,
+        "route_dist": 14.682233624580112
+      },
+      "17": {
+        "duration_mins": 34,
+        "capacity_ratio": 0.8150232155446617,
+        "route_dist": 16.56832124698077
+      },
+      "18": {
+        "duration_mins": 36,
+        "capacity_ratio": 0.5368758011304505,
+        "route_dist": 16.987811120473328
+      },
+      "19": {
+        "duration_mins": 45,
+        "capacity_ratio": 0.4511266979068902,
+        "route_dist": 20.2962862356729
+      }
+    },
+    "2": {
+      "0": {
+        "duration_mins": 37,
+        "capacity_ratio": 0.36834524662958384,
+        "route_dist": 20.429675862632863
+      },
+      "1": {
+        "duration_mins": 45,
+        "capacity_ratio": 0.8155058826684802,
+        "route_dist": 19.292677787839594
+      },
+      "2": {
+        "duration_mins": 44,
+        "capacity_ratio": 0.6092882834860306,
+        "route_dist": 20.12259485705742
+      },
+      "3": {
+        "duration_mins": 46,
+        "capacity_ratio": 0.6956986967039531,
+        "route_dist": 21.946683679056257
+      },
+      "4": {
+        "duration_mins": 38,
+        "capacity_ratio": 0.4345838096322918,
+        "route_dist": 21.498155398929267
+      },
+      "5": {
+        "duration_mins": 34,
+        "capacity_ratio": 0.4800456962840932,
+        "route_dist": 15.20418951019829
+      },
+      "6": {
+        "duration_mins": 31,
+        "capacity_ratio": 0.48109579834494004,
+        "route_dist": 13.595562770550574
+      },
+      "7": {
+        "duration_mins": 33,
+        "capacity_ratio": 0.3975509233583813,
+        "route_dist": 16.007195362969075
+      },
+      "8": {
+        "duration_mins": 37,
+        "capacity_ratio": 0.5630240790315298,
+        "route_dist": 16.149673419416484
+      },
+      "9": {
+        "duration_mins": 35,
+        "capacity_ratio": 0.6790169175195901,
+        "route_dist": 17.462389168741208
+      },
+      "10": {
+        "duration_mins": 33,
+        "capacity_ratio": 0.6396269619663808,
+        "route_dist": 19.963745776666336
+      },
+      "11": {
+        "duration_mins": 45,
+        "capacity_ratio": 0.840639559804454,
+        "route_dist": 21.386790066122956
+      },
+      "12": {
+        "duration_mins": 31,
+        "capacity_ratio": 0.6168296358001963,
+        "route_dist": 17.877803482783737
+      },
+      "13": {
+        "duration_mins": 47,
+        "capacity_ratio": 0.38997202509940093,
+        "route_dist": 24.686139585811812
+      },
+      "14": {
+        "duration_mins": 46,
+        "capacity_ratio": 0.7908545228634363,
+        "route_dist": 21.890347201831137
+      },
+      "15": {
+        "duration_mins": 45,
+        "capacity_ratio": 0.33889008552735134,
+        "route_dist": 22.45234142099311
+      },
+      "16": {
+        "duration_mins": 32,
+        "capacity_ratio": 0.8634139378940298,
+        "route_dist": 17.51532382150558
+      },
+      "17": {
+        "duration_mins": 47,
+        "capacity_ratio": 0.8527980306060992,
+        "route_dist": 21.342769450784857
+      },
+      "18": {
+        "duration_mins": 46,
+        "capacity_ratio": 0.5315807351454422,
+        "route_dist": 25.659027777230826
+      },
+      "19": {
+        "duration_mins": 34,
+        "capacity_ratio": 0.8998743037492052,
+        "route_dist": 17.603704796172476
+      }
+    },
+    "3": {
+      "0": {
+        "duration_mins": 38,
+        "capacity_ratio": 0.4336556465608451,
+        "route_dist": 17.15300814151756
+      },
+      "1": {
+        "duration_mins": 38,
+        "capacity_ratio": 0.5057409746367928,
+        "route_dist": 20.640160711492065
+      },
+      "2": {
+        "duration_mins": 43,
+        "capacity_ratio": 0.33864503411064006,
+        "route_dist": 21.71580204327034
+      },
+      "3": {
+        "duration_mins": 43,
+        "capacity_ratio": 0.5089801169847011,
+        "route_dist": 21.66898904922828
+      },
+      "4": {
+        "duration_mins": 43,
+        "capacity_ratio": 0.33932192821267715,
+        "route_dist": 23.562404839807616
+      },
+      "5": {
+        "duration_mins": 44,
+        "capacity_ratio": 0.8472214287961313,
+        "route_dist": 21.467769316755565
+      },
+      "6": {
+        "duration_mins": 45,
+        "capacity_ratio": 0.8161511390884864,
+        "route_dist": 23.511978890245512
+      },
+      "7": {
+        "duration_mins": 38,
+        "capacity_ratio": 0.7966512157139463,
+        "route_dist": 17.4482235771336
+      },
+      "8": {
+        "duration_mins": 32,
+        "capacity_ratio": 0.5431846741061064,
+        "route_dist": 16.260344298479055
+      },
+      "9": {
+        "duration_mins": 33,
+        "capacity_ratio": 0.46264863243218596,
+        "route_dist": 15.857586072977032
+      },
+      "10": {
+        "duration_mins": 48,
+        "capacity_ratio": 0.7936448984287001,
+        "route_dist": 24.10613937618212
+      },
+      "11": {
+        "duration_mins": 44,
+        "capacity_ratio": 0.3701251266734007,
+        "route_dist": 20.229579480772006
+      },
+      "12": {
+        "duration_mins": 40,
+        "capacity_ratio": 0.5670099010664618,
+        "route_dist": 19.313306051839398
+      },
+      "13": {
+        "duration_mins": 33,
+        "capacity_ratio": 0.5158037813174334,
+        "route_dist": 16.69752803560191
+      },
+      "14": {
+        "duration_mins": 33,
+        "capacity_ratio": 0.5725452648071794,
+        "route_dist": 16.28924591447699
+      },
+      "15": {
+        "duration_mins": 42,
+        "capacity_ratio": 0.6705584109584872,
+        "route_dist": 18.300411837030346
+      },
+      "16": {
+        "duration_mins": 37,
+        "capacity_ratio": 0.784425790072237,
+        "route_dist": 20.086371147628558
+      },
+      "17": {
+        "duration_mins": 30,
+        "capacity_ratio": 0.6231705034926012,
+        "route_dist": 14.390366977525517
+      },
+      "18": {
+        "duration_mins": 49,
+        "capacity_ratio": 0.749995466050426,
+        "route_dist": 25.505631568583233
+      },
+      "19": {
+        "duration_mins": 45,
+        "capacity_ratio": 0.6619157068320674,
+        "route_dist": 20.829447689171964
+      }
+    },
+    "4": {
+      "0": {
+        "duration_mins": 36,
+        "capacity_ratio": 0.8833217885236821,
+        "route_dist": 19.769497413327603
+      },
+      "1": {
+        "duration_mins": 41,
+        "capacity_ratio": 0.47964668121770826,
+        "route_dist": 20.970340154826083
+      },
+      "2": {
+        "duration_mins": 35,
+        "capacity_ratio": 0.501050512719488,
+        "route_dist": 16.29149141624605
+      },
+      "3": {
+        "duration_mins": 43,
+        "capacity_ratio": 0.3076758197371395,
+        "route_dist": 22.86719154453734
+      },
+      "4": {
+        "duration_mins": 38,
+        "capacity_ratio": 0.8743657757653747,
+        "route_dist": 18.268574798648377
+      },
+      "5": {
+        "duration_mins": 34,
+        "capacity_ratio": 0.8901429091593394,
+        "route_dist": 15.131782806357629
+      },
+      "6": {
+        "duration_mins": 45,
+        "capacity_ratio": 0.8586042387110233,
+        "route_dist": 22.16947991080924
+      },
+      "7": {
+        "duration_mins": 49,
+        "capacity_ratio": 0.8441327404384971,
+        "route_dist": 22.460317789458983
+      },
+      "8": {
+        "duration_mins": 38,
+        "capacity_ratio": 0.72360120882515,
+        "route_dist": 19.556528259415632
+      },
+      "9": {
+        "duration_mins": 46,
+        "capacity_ratio": 0.7099311129253518,
+        "route_dist": 22.853785862332046
+      },
+      "10": {
+        "duration_mins": 32,
+        "capacity_ratio": 0.8803476629385383,
+        "route_dist": 16.166532727956824
+      },
+      "11": {
+        "duration_mins": 31,
+        "capacity_ratio": 0.769683446816019,
+        "route_dist": 15.659801848615464
+      },
+      "12": {
+        "duration_mins": 45,
+        "capacity_ratio": 0.3907513183820401,
+        "route_dist": 20.892080127068393
+      },
+      "13": {
+        "duration_mins": 44,
+        "capacity_ratio": 0.6116350545562755,
+        "route_dist": 23.48873356034742
+      },
+      "14": {
+        "duration_mins": 37,
+        "capacity_ratio": 0.7580174547852705,
+        "route_dist": 20.103222345018082
+      },
+      "15": {
+        "duration_mins": 35,
+        "capacity_ratio": 0.8592503378225109,
+        "route_dist": 16.98428687007886
+      },
+      "16": {
+        "duration_mins": 38,
+        "capacity_ratio": 0.725522665404357,
+        "route_dist": 18.94188337710094
+      },
+      "17": {
+        "duration_mins": 33,
+        "capacity_ratio": 0.600573926130143,
+        "route_dist": 18.527773453076
+      },
+      "18": {
+        "duration_mins": 34,
+        "capacity_ratio": 0.8277014896853641,
+        "route_dist": 16.878050353128415
+      },
+      "19": {
+        "duration_mins": 48,
+        "capacity_ratio": 0.32892943903860794,
+        "route_dist": 20.2195710442341
+      }
+    }
+  }
+}
