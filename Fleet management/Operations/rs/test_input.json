@@ -1,0 +1,204 @@
+{
+    "input_data": {
+        "cl1": {
+            "lat": 40.611622,
+            "lon": 22.952975,
+            "role": 0,
+            "time_dep": 75,
+            "time_arr": 135,
+            "capacity": -1,
+            "dep_arr": -1
+        },
+        "cl2": {
+            "lat": 40.616862,
+            "lon": 22.977526,
+            "role": 0,
+            "time_dep": 75,
+            "time_arr": 135,
+            "capacity": -1,
+            "dep_arr": -1
+        },
+        "cl3": {
+            "lat": 40.606002,
+            "lon": 22.959784,
+            "role": 0,
+            "time_dep": 75,
+            "time_arr": 135,
+            "capacity": -1,
+            "dep_arr": -1
+        },
+        "cl4": {
+            "lat": 40.635305,
+            "lon": 22.951746,
+            "role": 0,
+            "time_dep": 75,
+            "time_arr": 135,
+            "capacity": -1,
+            "dep_arr": -1
+        },
+        "cl5": {
+            "lat": 40.59881,
+            "lon": 22.970777,
+            "role": 0,
+            "time_dep": 75,
+            "time_arr": 135,
+            "capacity": -1,
+            "dep_arr": -1
+        },
+        "cl6": {
+            "lat": 40.622023,
+            "lon": 22.972868,
+            "role": 0,
+            "time_dep": 75,
+            "time_arr": 135,
+            "capacity": -1,
+            "dep_arr": -1
+        },
+        "cl7": {
+            "lat": 40.59648,
+            "lon": 22.96274,
+            "role": 0,
+            "time_dep": 75,
+            "time_arr": 135,
+            "capacity": -1,
+            "dep_arr": -1
+        },
+        "cl8": {
+            "lat": 40.59648,
+            "lon": 22.96274,
+            "role": 0,
+            "time_dep": 75,
+            "time_arr": 135,
+            "capacity": -1,
+            "dep_arr": -1
+        },
+        "cl9": {
+            "lat": 40.630361,
+            "lon": 22.950896,
+            "role": 0,
+            "time_dep": 75,
+            "time_arr": 135,
+            "capacity": -1,
+            "dep_arr": -1
+        },
+        "cl10": {
+            "lat": 40.574839,
+            "lon": 22.965744,
+            "role": 0,
+            "time_dep": 75,
+            "time_arr": 135,
+            "capacity": -1,
+            "dep_arr": -1
+        },
+        "cl11": {
+            "lat": 40.611207,
+            "lon": 22.97201,
+            "role": 0,
+            "time_dep": 75,
+            "time_arr": 135,
+            "capacity": -1,
+            "dep_arr": -1
+        },
+        "cl12": {
+            "lat": 40.615052,
+            "lon": 22.969778,
+            "role": 0,
+            "time_dep": 75,
+            "time_arr": 135,
+            "capacity": -1,
+            "dep_arr": -1
+        },
+        "cl13": {
+            "lat": 40.61883,
+            "lon": 22.956303,
+            "role": 0,
+            "time_dep": 75,
+            "time_arr": 135,
+            "capacity": -1,
+            "dep_arr": -1
+        },
+        "cl14": {
+            "lat": 40.61225,
+            "lon": 22.958706,
+            "role": 0,
+            "time_dep": 75,
+            "time_arr": 135,
+            "capacity": -1,
+            "dep_arr": -1
+        },
+        "dr1": {
+            "lat": 40.635781,
+            "lon": 22.948202,
+            "role": 1,
+            "time_dep": 90,
+            "time_arr": 150,
+            "capacity": 3,
+            "dep_arr": -1
+        },
+        "dr2": {
+            "lat": 40.615388,
+            "lon": 22.954296,
+            "role": 1,
+            "time_dep": 90,
+            "time_arr": 150,
+            "capacity": 3,
+            "dep_arr": -1
+        },
+        "dr3": {
+            "lat": 40.616378,
+            "lon": 22.97503,
+            "role": 1,
+            "time_dep": 90,
+            "time_arr": 150,
+            "capacity": 3,
+            "dep_arr": -1
+        },
+        "dr4": {
+            "lat": 40.624629,
+            "lon": 22.962225,
+            "role": 1,
+            "time_dep": 90,
+            "time_arr": 150,
+            "capacity": 3,
+            "dep_arr": -1
+        },
+        "dr5": {
+            "lat": 40.606646,
+            "lon": 22.977675,
+            "role": 1,
+            "time_dep": 90,
+            "time_arr": 150,
+            "capacity": 3,
+            "dep_arr": -1
+        },
+        "dr6": {
+            "lat": 40.586704,
+            "lon": 22.949866,
+            "role": 1,
+            "time_dep": 90,
+            "time_arr": 150,
+            "capacity": 3,
+            "dep_arr": -1
+        },
+        "dr7": {
+            "lat": 40.58553,
+            "lon": 23.02677,
+            "role": 1,
+            "time_dep": 90,
+            "time_arr": 150,
+            "capacity": 3,
+            "dep_arr": -1
+        },
+        "dest1": {
+            "lat": 40.566694,
+            "lon": 22.997319,
+            "role": 2,
+            "time_dep": -1,
+            "time_arr": -1,
+            "capacity": -1,
+            "dep_arr": 0
+        }
+    },
+
+    "mode": "solution_general"
+}
