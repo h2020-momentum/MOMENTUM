@@ -1,0 +1,8 @@
+Zone_ID,HH_ID,Indv_ID,Age,Employment,Education,Income,HHBicycles,HHPrivateCars,BicycleUseFrequency,PTUseFrequency,PrivateCarUseFrequency,NumberOfSharingVehiclesInZone
+1,1,1,53,Full time,University,High,0,1,Never,Low,High,3
+1,1,2,50,Full time,University,High,0,1,Never,Medium,Medium,3
+3,2,1,23,Student,University,Low,1,0,Medium,Medium,Never,4
+4,3,1,50,Full time,University,High,1,1,Low,Low,High,2
+4,3,2,45,Half time,University,High,1,1,Low,Low,High,2
+4,3,3,21,Student,University,Low,1,1,Medium,High,Low,2
+9,4,1,61,Half time,Vocational,Medium,1,1,Low,Never,High,1
