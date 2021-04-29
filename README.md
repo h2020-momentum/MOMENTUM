@@ -1,4 +1,5 @@
-# MOMENTUM
+# MOMENTUM ![image](https://user-images.githubusercontent.com/36446409/116510305-ff95dd00-a8c4-11eb-9f41-0aa15deb6091.png)
+
 
 MOMENTUM is an European H2020 project, aimed at developing models for emerging mobility solutions. The overall goal of the project is to develop a set of mobility data analysis and exploitation methods, transport models and planning and decision support tools able to capture the impact of new transport options and ICT-driven behavioural changes on urban mobility, to support local authorities in the task of designing the right policy mix to exploit the full potential of emerging mobility solutions. For more information about the project, kindly visit https://h2020-momentum.eu/.
 
