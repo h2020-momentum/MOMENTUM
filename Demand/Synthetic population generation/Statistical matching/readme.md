@@ -14,6 +14,7 @@ This model will be coded in Python language. More details regarding any special 
 In progress.
 
 # License
+Distributed under the MIT License.
 
 # Contact
 Athina Tympakianaki, athina.tympakianaki@aimsun.com
