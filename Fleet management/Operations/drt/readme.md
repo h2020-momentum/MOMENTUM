@@ -14,11 +14,13 @@ This model is coded in 'Python 3.8.8' language. The next two libraries are requi
 
 This module for the Dial-a-Ride problem is composed of the next three files:
 
-- InputData.py: Classes to model the input data. Please, check in order to see the information needed to solve the problem.
 - CVRPTW-PD_final.py: Main file with the methods to solve the Dial-a-Ride problem given the input data. It also contains an example of how to use the different methods.
+- InputData.py: Classes to model the input data. Please, check in order to see the information needed to solve the problem.
 - OutputData.py: Classes to model the solution found for the Dial-a-Ride problem. Please, check in order to see the data available about the solution found.
 
-It includes two files in JSON format with an example of the input and output data.
+It includes two files in JSON format with an example of the input and output data:
+- InputData.json: sample input data file
+- OutputData.json: sample output data file
 
 # Citing this model
 
@@ -39,3 +41,4 @@ Distributed under the MIT License.
 
 - Jenny Fajardo (University of Deusto, Bilbao) – fajardo.jenny@deusto.es
 - Antonio D. Masegosa (University of Deusto, Bilbao) – ad.masegosa@deusto.es
+- Pablo Fernandez (University of Deusto, Bilbao) - pablo.fernandez@deusto.es
