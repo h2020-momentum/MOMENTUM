@@ -1,0 +1,107 @@
+{
+    "name": "Fleet Assigment",
+    "assignment": [
+        {
+            "idVehAssigned": "Vehicle001",
+            "actions": [
+                {
+                    "idRequest": "RR001",
+                    "action": "Pickup",
+                    "arrival time": 10,
+                    "depature_time": 10.5,
+                    "vehicle_ocupation": 5
+                },
+                {
+                    "idRequest": "RR001",
+                    "action": "Drop",
+                    "arrival time": 40,
+                    "depature_time": 40.5,
+                    "vehicle_occupancy": 0
+                },
+                {
+                    "idRequest": "RR005",
+                    "action": "Pickup",
+                    "arrival time": 46,
+                    "depature_time": 46.5,
+                    "vehicle_ocupation": 5
+                },
+                {
+                    "idRequest": "RR005",
+                    "action": "Drop",
+                    "arrival time": 49,
+                    "depature_time": 49.5,
+                    "vehicle_occupancy": 0
+                }
+            ]
+        },
+        {
+            "idVehAssigned": "Vehicle002",
+            "actions": [
+                {
+                    "idRequest": "RR002",
+                    "action": "Pickup",
+                    "arrival time": 15,
+                    "depature_time": 15.5,
+                    "vehicle_ocupation": 2
+                },
+                {
+                    "idRequest": "RR002",
+                    "action": "Drop",
+                    "arrival time": 55,
+                    "depature_time": 55.5,
+                    "vehicle_occupancy": 0
+                }
+            ]
+        },
+        {
+            "idVehAssigned": "Vehicle003",
+            "actions": [
+                {
+                    "idRequest": "RR003",
+                    "action": "Pickup",
+                    "arrival time": 10,
+                    "depature_time": 10.5,
+                    "vehicle_ocupation": 3
+                },
+                {
+                    "idRequest": "RR003",
+                    "action": "Drop",
+                    "arrival time": 40,
+                    "depature_time": 40.5,
+                    "vehicle_occupancy": 0
+                }
+            ]
+        }
+    ],
+    "finalCommand": [
+        {
+            "idVeh": "Vehicle001",
+            "position": {
+                "object": "Depot001",
+                "x": 2551804.26,
+                "y": 4952331.58
+            }
+        },
+        {
+            "idVeh": "Vehicle002",
+            "position": {
+                "object": "Depot001",
+                "x": 2551804.26,
+                "y": 4952331.58
+            }
+        },
+        {
+            "idVeh": "Vehicle003",
+            "position": {
+                "object": "Depot001",
+                "x": 2551804.26,
+                "y": 4952331.58
+            }
+        }
+    ],
+    "unassigned": [
+        {
+            "idRequest": "RR004"
+        }
+    ]
+}
