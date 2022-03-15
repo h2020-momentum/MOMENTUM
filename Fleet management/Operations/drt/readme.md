@@ -29,5 +29,5 @@ Distributed under the MIT License.
 
 # Contact
 
-- Jenny Fajardo (University of Desuto, Bilbao) – fajardo.jenny@deusto.es
-- Antonio D. Masegosa (University of Desuto, Bilbao) – ad.masegosa@deusto.es
+- Jenny Fajardo (University of Deusto, Bilbao) – fajardo.jenny@deusto.es
+- Antonio D. Masegosa (University of Deusto, Bilbao) – ad.masegosa@deusto.es
