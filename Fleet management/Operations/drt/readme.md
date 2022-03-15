@@ -18,6 +18,8 @@ This module for the Dial-a-Ride problem is composed of the next three files:
 - CVRPTW-PD_final.py: Main file with the methods to solve the Dial-a-Ride problem given the input data. It also contains an example of how to use the different methods.
 - OutputData.py: Classes to model the solution found for the Dial-a-Ride problem. Please, check in order to see the data available about the solution found.
 
+It includes two files in JSON format with an example of the input and output data.
+
 # Citing this model
 
 
