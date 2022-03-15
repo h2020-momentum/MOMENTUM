@@ -22,6 +22,14 @@ It includes two files in JSON format with an example of the input and output dat
 
 # Citing this model
 
+@software{drt-MOMENTUM,
+  title = {DRT optimisation module - EU H2020 MOMENTUM Project (GA 815069)},
+  version = {1.0},
+  author = {Jenny Fajardo and Antonio D. Masegosa and Pablo Fernandez},
+  organization = {University of Deusto},
+  url = {https://github.com/h2020-momentum/MOMENTUM/tree/main/Fleet%20management/Operations/drt},
+  date = {2022-3-15}
+}
 
 # License
 
