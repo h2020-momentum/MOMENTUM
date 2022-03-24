@@ -11,8 +11,8 @@ Python 3.8.8
 * stop_candidates.py : It takes as an input disaggregated demand of OD trips with timestamp and approximate the best stop candidates. Planner can insert the desired
 maximum distance each user must walk to reach a available station. 
 * vehicles_size.py: This module solve the VRP to define the fleet size for the operation. The user can choose the maximum route distance and the size of fleet. 
-* facility_lication.py : (under developement) choose the optimal subset (set covering) via facility location MIP. 
-
+* facility_location.py : The implementation of p-median alternative for the selection of the optimal subset from station candidated 
+* generate_aimsun_requests.ipynb : a guide to generate requests for the Aimsun Ride tool
 # **Citing this model**
 In progress... 
 
