@@ -14,13 +14,13 @@ For details about Python, kindly check https://www.python.org/.
 # Description of the model files
 1.	extend_dataset_with_resampling.py – Main model script
 2.	data_extension.py – Python file with useful functions
-3.	*survey.csv* – CSV file with the training dataset from household travel survey observations 
-4.	*agents.csv* – CSV file with the dataset to extend
+3.	*survey.csv* – Input CSV file with the training dataset from household travel survey observations (example indicating the structure of the survey file)
+4.	*agents.csv* – Input CSV file with the dataset to extend (example indicating the structure of the agents file)
 
 # How to use it
 
 extend_dataset_with_resampling.py is the main script (the one to run). Before running it:
-- Edit from line 9 to 19 to set the folder with survey.csv and agents.csv files,
+- Edit from line 9 to 19 to set the folder with user provided survey.csv and agents.csv files,
 the output file, the common attributes in both datasets and the target attributes (the ones to estimate for the target
 population).
 - Edit "M" (line 16) which corresponds to the minimum number of source observations from where to draw the common attributes. 
