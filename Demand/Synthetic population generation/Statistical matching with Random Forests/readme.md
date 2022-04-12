@@ -21,7 +21,7 @@ This module is coded in Python language and works with Python >= 3.7.6. The foll
 2.	data_extension.py – Python file with useful functions
 3.	*survey_sample.csv* – Input CSV file with the training dataset from household travel survey observations (example indicating the structure of the       survey file)
 4.	*agents_sample.csv* – Input CSV file with the dataset to extend (example indicating the structure of the agents file)
-5.	
+
 ## How to use it
 
 extend_wih_rf_test.py is the main script (the one to run). Before running it:
