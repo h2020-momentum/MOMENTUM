@@ -10,7 +10,7 @@ scikit-learn.
 
 ## Pre-requisites
 
-This model is coded in Python language and works with Python >= 3.7.6. The following packages are required:
+This module is coded in Python language and works with Python >= 3.7.6. The following packages are required:
 
 - scikit-learn >= 1.0.2
 - numpy >= 1.21.5
