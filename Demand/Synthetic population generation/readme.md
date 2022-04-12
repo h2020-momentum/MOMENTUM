@@ -38,4 +38,5 @@ Distributed under the MIT License.
 
 # Contact
 Athina Tympakianaki, athina.tympakianaki@aimsun.com
+
 Ferran Torrent, ferran.torrent@aimsun.com
