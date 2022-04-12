@@ -12,7 +12,7 @@ This model is coded in Python language and works with Python >= 3.7.6. The follo
 For details about Python, kindly check https://www.python.org/.
 
 # Description of the model files
-1.	extend_with_rf_test.py – Main model script
+1.	extend_dataset_with_resampling.py – Main model script
 2.	data_extension.py – Python file with useful functions
 3.	*survey.csv* – CSV file with the training dataset from household travel survey observations 
 4.	*agents.csv* – CSV file with the dataset to extend
