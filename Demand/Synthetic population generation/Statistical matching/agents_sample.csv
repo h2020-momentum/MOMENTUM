@@ -1,0 +1,4 @@
+AgentID,city_part,sex,age_cat,hh_type,hh_size,education_level,labour_status,income_cat,cars_hh,ebikes_hh,car_driver_prob,car_passenger_prob,train_prob,btm_prob,bike_prob,pedestrian_prob,hhID
+1,HEVERLEE OOST,female,35-44,single without children,4,secondary,retired,3001-4000,2,0,0.000000,0.168000,0.000000,0.035000,0.409000,0.388000,264571
+2,LEUVEN NOORD,male,55-64,couple with children,3,no diploma,active/employed,3001-4000,1,0,0.881000,0.008000,0.102000,0.009000,0.000000,0.000000,38
+3,WILSELE WIJGMAAL,female,18-24,living together without children,1,secondary,student,1001-2000,1,0,0.000000,0.060000,0.000000,0.243000,0.515000,0.182000,264573

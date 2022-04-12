@@ -1,0 +1,4 @@
+survey_id,city_part,sex,age_cat,hh_type,hh_size,education_level,labour_status,income_cat,cars_hh,ebikes_hh,belgian,public_transport_passes_hh
+0,HEVERLEE OOST,male,25-34,living together without children,2,secondary,active/employed,3001-4000,2,0,True,0
+1,WILSELE WIJGMAAL,female,45-54,couple with children,2,secondary,active/employed,2001-3000,1,0,True,1
+2,LEUVEN NOORD,male,75+,couple with children,1,no diploma,retired,1001-2000,1,0,True,0
