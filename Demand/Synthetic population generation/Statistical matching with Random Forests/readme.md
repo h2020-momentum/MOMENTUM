@@ -19,13 +19,13 @@ This module is coded in Python language and works with Python >= 3.7.6. The foll
 ## Description of the files
 1.	extend_with_rf_test.py – Main model script
 2.	data_extension.py – Python file with useful functions
-3.	*survey.csv* – CSV file with the training dataset from household travel survey observations 
-4.	*agents.csv* – CSV file with the dataset to extend
-
+3.	*survey_sample.csv* – Input CSV file with the training dataset from household travel survey observations (example indicating the structure of the       input survey file)
+4.	*agents_sample.csv* – Input CSV file with the dataset to extend (example indicating the structure of the input agents file)
+5.	
 ## How to use it
 
 extend_wih_rf_test.py is the main script (the one to run). Before running it:
-- Edit from line 9 to 17 to set the folder with survey.csv and agents.csv files,
+- Edit from line 9 to 17 to set the folder with the user provided survey.csv and agents.csv files,
 the output file, the common attributes in both datasets and the target attributes (the ones to estimate for the target
 population).
 - Edit "n_estimators" or "n_splits" (line 33) to increase/decrease the regularization of the random forest. "n_splits"
