@@ -1,13 +1,13 @@
 # **Rebalancing**
 
-That module hancle the rebalancing task of micromibility sercices. 
+This model handles the rebalancing task of micromobility services. 
 
 # **Pre-requisites**
 Python 3.8.8
 
 # **Description of the model files**
-pdtsp.py : Contain the rebalancing MIP model. Take as input the demand for each station and the distance matrix across stations. 
-It returns the optimal path along with the number of bikes must pickup and deliver in each step. 
+pdtsp.py : Contains the code for rebalancing MIP model. Takes as input the demand for each station and the distance matrix across stations. 
+It returns the optimal path along with the number of bikes to pickup and deliver in each step. 
 
 # **Citing this model**
 In progress... 
